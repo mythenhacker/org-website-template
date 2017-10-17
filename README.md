@@ -7,7 +7,7 @@ In ~ do
 
     git clone https://github.com/mythenhacker/org-website-template.git
 
-Open file "~/org-website-template/org-publish.el" with Emacs and insert its contents into your "~/.emacs.d/init.el". Then restart Emacs or reload configuration with
+Open file "\~/org-website-template/org-publish.el" with Emacs and insert its contents into your "\~/.emacs.d/init.el". Then restart Emacs or reload configuration with
 
     M-x eval-buffer
 
