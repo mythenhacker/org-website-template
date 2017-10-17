@@ -1,0 +1,9 @@
+#+SETUPFILE: ../org-templates/level-0.org
+#+TITLE: Index Page
+
+** Hello world!
+
+* [[file:level-0.org][file-level-0]]
+* [[file:1/level-1.org][file-level-1]]
+* [[file:1/2/level-2.org][file-level-2]]
+* [[file:1/2/3/level-3.org][file-level-3]]

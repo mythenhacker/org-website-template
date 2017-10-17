@@ -1,0 +1,185 @@
+html {
+    font-family: sans-serif;
+    color: #1a1a1a;
+}
+
+#preamble p {
+    font-size: 0.8125rem;
+    margin: .2em;
+}
+
+#banner {
+    width: 100%;
+    display: table;
+    background-color: #fff;
+    max-width: 23cm;
+    padding-top: 1em;
+}
+
+#banner h1 {
+    font-family: Montserrat, "Helvetica Neue", sans-serif;
+    font-size: larger;
+    line-height:1;
+}
+
+blockquote {
+    border: 0 solid #1a1a1a;
+    border-left-width: 4px;
+    font-size: 19px;
+    font-size: 1.1875rem;
+    font-style: italic;
+    line-height: 1.4736842105;
+    margin: 0 0 1.4736842105em;
+    padding: 0 0 0 1.263157895em;
+    font-family: Merriweather, Georgia, serif;
+}
+
+cite {
+    font-style: normal;
+}
+
+#banner a {
+    color: #1a1a1a;
+    text-decoration: none;
+    font-family: inherit;
+}
+
+#banner p {
+    color: #686868;
+    font-family: Merriweather, Georgia, serif;
+}
+
+#banner nav {
+    font-family: Montserrat, "Helvetica Neue", sans-serif;
+    padding-bottom:30px;
+    text-align:center;
+    font-weight:700;
+    font-size: initial;
+}
+
+#banner nav ul {
+    list-style:none;
+    margin:0 auto;    
+}
+
+#banner nav li {
+    float:right;
+    display:inline;
+    margin:0;
+}
+
+#banner nav a:link,#banner nav a:visited {
+    color: #1a1a1a;
+    display:inline-block;
+    height:30px;
+    text-decoration:none;
+    padding:0 .5em;
+}
+
+body {
+    line-height: 1.75;
+    margin: 0 auto;
+    max-width: 23cm;
+    font-size: 1.1rem;
+    letter-spacing: 0.01rem;
+}
+
+hr {
+    background-color: #d1d1d1;
+    border: 0;
+    height: 1px;
+}
+
+a:focus {
+    outline: thin dotted;
+}
+
+a:active,
+a:hover {
+    outline: 0;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: left !important;
+}
+
+h1.title {
+    margin-bottom: 1em;
+    font-weight: 700;
+}
+
+small {
+    font-size: 80%;
+}
+
+img {
+    border: 0;
+    max-width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    font-family: Merriweather, Georgia, serif;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #686868;
+}
+
+a:focus {
+    outline: thin dotted;
+}
+
+a:hover,
+a:active {
+    outline: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.75rem;
+    margin-top: 1em;
+}
+
+h3 {
+    font-size: 1.4rem;
+    margin-top: 1em;
+}
+
+h4 {
+    font-size: 1.2rem;
+    margin-top: 1em;
+}
+
+h5 {
+    font-size: 1.0rem;
+}
+
+h6 {
+    font-size: 0.9rem;
+}
+
+code {
+    background-color: #fff;
+    padding: 0.125em 0.25em;
+    font-family: Inconsolata, monospace;
+    border: 1px solid #d1d1d1;
+}
